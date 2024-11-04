@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  font-family: farmtohome, sans-serif;
+  padding: 0 ;
+}
+
+
+  
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
